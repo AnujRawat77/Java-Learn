@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LearnJava/Collections/Tasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LearnJava/KeyFeatures/Task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LearnJava/KeyFeatures/Task/2.2-chaining-consumers-to-process-data" vcs="Git" />
   </component>
 </project>

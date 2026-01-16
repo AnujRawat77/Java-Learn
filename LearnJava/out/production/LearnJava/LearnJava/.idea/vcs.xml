@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Collections/Tasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeyFeatures/Task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeyFeatures/Task/2.2-chaining-consumers-to-process-data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeyFeatures/Task/2.3-map-and-reduce-using-streams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeyFeatures/Task/2.4-combine-predicates-for-complex-conditions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeyFeatures/Task/2.5-flatmap-for-nested-list-processing" vcs="Git" />
   </component>
 </project>
